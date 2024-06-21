@@ -21,3 +21,8 @@ Problem solved by me using most efficient way
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0066-plus-one) |
+| [0724-find-pivot-index](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0724-find-pivot-index) |
+# Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0724-find-pivot-index) |
