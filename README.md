@@ -8,6 +8,7 @@ Problem solved by me using most efficient way
 | [0066-plus-one](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0066-plus-one) |
 | [0367-valid-perfect-square](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0633-sum-of-square-numbers) |
+| [2812-find-the-maximum-achievable-number](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2812-find-the-maximum-achievable-number) |
 # Two Pointers
 |  |
 | ------- |
