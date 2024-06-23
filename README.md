@@ -8,6 +8,7 @@ Problem solved by me using most efficient way
 | [0066-plus-one](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0066-plus-one) |
 | [0367-valid-perfect-square](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0633-sum-of-square-numbers) |
+| [1585-the-kth-factor-of-n](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/1585-the-kth-factor-of-n) |
 | [1635-number-of-good-pairs](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2383-add-two-integers) |
 | [2812-find-the-maximum-achievable-number](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2812-find-the-maximum-achievable-number) |
@@ -39,3 +40,7 @@ Problem solved by me using most efficient way
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/1635-number-of-good-pairs) |
+# Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/1585-the-kth-factor-of-n) |
