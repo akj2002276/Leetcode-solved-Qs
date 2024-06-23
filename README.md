@@ -10,6 +10,7 @@ Problem solved by me using most efficient way
 | [0633-sum-of-square-numbers](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0633-sum-of-square-numbers) |
 | [1635-number-of-good-pairs](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2812-find-the-maximum-achievable-number) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 # Two Pointers
 |  |
 | ------- |
