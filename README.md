@@ -16,16 +16,19 @@ Problem solved by me using most efficient way
 # Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0633-sum-of-square-numbers) |
 # Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0633-sum-of-square-numbers) |
 # Array
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0066-plus-one) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0724-find-pivot-index](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0724-find-pivot-index) |
 | [1635-number-of-good-pairs](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/1635-number-of-good-pairs) |
 # Prefix Sum
