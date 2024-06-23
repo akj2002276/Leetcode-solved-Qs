@@ -11,6 +11,7 @@ Problem solved by me using most efficient way
 | [1585-the-kth-factor-of-n](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/1585-the-kth-factor-of-n) |
 | [1635-number-of-good-pairs](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2491-smallest-even-multiple) |
 | [2812-find-the-maximum-achievable-number](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 # Two Pointers
@@ -47,3 +48,4 @@ Problem solved by me using most efficient way
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/1585-the-kth-factor-of-n) |
+| [2491-smallest-even-multiple](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2491-smallest-even-multiple) |
