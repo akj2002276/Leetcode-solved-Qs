@@ -1,17 +1,17 @@
 class Solution {
     public int kthFactor(int n, int k) {
+ArrayList<Integer> li=new ArrayList<>();
 
-        ArrayList<Integer> a = new ArrayList<>();
-        for(int i = 1; i <= n; i++){
-        if(n % i ==0){
-        a.add(i);
-        }
-        }
-        if(a.size() < k){
-        return -1;
-        }
-        else{
-        return a.get(k-1);
-        }
+for(int i=1;i<=n;i++){
+	if(n%i==0){
+  		li.add(i);
+  }
+}
+if(k>li.size()){
+		return -1;
+}
+else{
+		return li.get(k-1);
+}
     }
 }
