@@ -10,6 +10,7 @@ Problem solved by me using most efficient way
 | [0633-sum-of-square-numbers](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0633-sum-of-square-numbers) |
 | [1585-the-kth-factor-of-n](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/1585-the-kth-factor-of-n) |
 | [1635-number-of-good-pairs](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/1635-number-of-good-pairs) |
+| [2032-largest-odd-number-in-string](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2491-smallest-even-multiple) |
 | [2812-find-the-maximum-achievable-number](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2812-find-the-maximum-achievable-number) |
@@ -49,3 +50,11 @@ Problem solved by me using most efficient way
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/1585-the-kth-factor-of-n) |
 | [2491-smallest-even-multiple](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2491-smallest-even-multiple) |
+# String
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2032-largest-odd-number-in-string) |
+# Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2032-largest-odd-number-in-string) |
