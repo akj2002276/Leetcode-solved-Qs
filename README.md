@@ -58,3 +58,14 @@ Problem solved by me using most efficient way
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2032-largest-odd-number-in-string) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+## Math
+|  |
+| ------- |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+<!---LeetCode Topics End-->
