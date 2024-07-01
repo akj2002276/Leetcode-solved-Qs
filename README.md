@@ -63,9 +63,18 @@ Problem solved by me using most efficient way
 ## Array
 |  |
 | ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/1019-squares-of-a-sorted-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Math
 |  |
 | ------- |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+## Two Pointers
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/1019-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
