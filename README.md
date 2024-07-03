@@ -64,6 +64,7 @@ Problem solved by me using most efficient way
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/1019-squares-of-a-sorted-array) |
+| [2442-number-of-arithmetic-triplets](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2442-number-of-arithmetic-triplets) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Math
 |  |
@@ -74,6 +75,7 @@ Problem solved by me using most efficient way
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/1019-squares-of-a-sorted-array) |
+| [2442-number-of-arithmetic-triplets](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2442-number-of-arithmetic-triplets) |
 ## Sorting
 |  |
 | ------- |
@@ -86,4 +88,12 @@ Problem solved by me using most efficient way
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0258-add-digits) |
+## Hash Table
+|  |
+| ------- |
+| [2442-number-of-arithmetic-triplets](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2442-number-of-arithmetic-triplets) |
+## Enumeration
+|  |
+| ------- |
+| [2442-number-of-arithmetic-triplets](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2442-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
