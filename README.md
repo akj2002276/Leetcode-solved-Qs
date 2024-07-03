@@ -68,6 +68,7 @@ Problem solved by me using most efficient way
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0258-add-digits) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
@@ -77,4 +78,12 @@ Problem solved by me using most efficient way
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/1019-squares-of-a-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
