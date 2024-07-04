@@ -65,6 +65,7 @@ Problem solved by me using most efficient way
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/1019-squares-of-a-sorted-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2442-number-of-arithmetic-triplets) |
+| [2714-left-and-right-sum-differences](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2714-left-and-right-sum-differences) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Math
 |  |
@@ -96,4 +97,8 @@ Problem solved by me using most efficient way
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2442-number-of-arithmetic-triplets) |
+## Prefix Sum
+|  |
+| ------- |
+| [2714-left-and-right-sum-differences](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
