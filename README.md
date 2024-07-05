@@ -63,6 +63,7 @@ Problem solved by me using most efficient way
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/1019-squares-of-a-sorted-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2442-number-of-arithmetic-triplets) |
 | [2561-number-of-distinct-averages](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2561-number-of-distinct-averages) |
@@ -77,6 +78,7 @@ Problem solved by me using most efficient way
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/1019-squares-of-a-sorted-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2442-number-of-arithmetic-triplets) |
 | [2561-number-of-distinct-averages](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2561-number-of-distinct-averages) |
