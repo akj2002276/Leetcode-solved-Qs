@@ -65,6 +65,7 @@ Problem solved by me using most efficient way
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/1019-squares-of-a-sorted-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2442-number-of-arithmetic-triplets) |
+| [2561-number-of-distinct-averages](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2561-number-of-distinct-averages) |
 | [2714-left-and-right-sum-differences](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2714-left-and-right-sum-differences) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -78,11 +79,13 @@ Problem solved by me using most efficient way
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/1019-squares-of-a-sorted-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2442-number-of-arithmetic-triplets) |
+| [2561-number-of-distinct-averages](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2561-number-of-distinct-averages) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/1019-squares-of-a-sorted-array) |
+| [2561-number-of-distinct-averages](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2561-number-of-distinct-averages) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Simulation
 |  |
@@ -96,6 +99,7 @@ Problem solved by me using most efficient way
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2442-number-of-arithmetic-triplets) |
+| [2561-number-of-distinct-averages](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2561-number-of-distinct-averages) |
 ## Enumeration
 |  |
 | ------- |
