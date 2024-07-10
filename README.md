@@ -74,6 +74,7 @@ Problem solved by me using most efficient way
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0258-add-digits) |
+| [1448-maximum-69-number](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/1448-maximum-69-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
@@ -110,4 +111,8 @@ Problem solved by me using most efficient way
 |  |
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2714-left-and-right-sum-differences) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
