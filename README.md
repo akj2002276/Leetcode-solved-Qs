@@ -115,4 +115,12 @@ Problem solved by me using most efficient way
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/1448-maximum-69-number) |
+## Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2384-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
