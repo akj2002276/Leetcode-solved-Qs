@@ -118,9 +118,19 @@ Problem solved by me using most efficient way
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0094-binary-tree-inorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0094-binary-tree-inorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2384-root-equals-sum-of-children) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
