@@ -119,11 +119,13 @@ Problem solved by me using most efficient way
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0112-path-sum) |
 | [2384-root-equals-sum-of-children](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0112-path-sum) |
 | [2384-root-equals-sum-of-children](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/2384-root-equals-sum-of-children) |
 ## Stack
 |  |
@@ -133,4 +135,9 @@ Problem solved by me using most efficient way
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/akj2002276/Leetcode-solved-Qs/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
